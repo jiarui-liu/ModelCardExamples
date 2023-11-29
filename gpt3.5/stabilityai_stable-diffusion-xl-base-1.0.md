@@ -301,3 +301,18 @@ The objective of stabilityai/stable-diffusion-xl-base-1.0 is to generate high-qu
 
 The compute infrastructure details about the model stabilityai/stable-diffusion-xl-base-1.0 are not provided in the given references. [More Information Needed]
 
+## Citation
+
+```
+@misc{dustin-sdxl,
+    author = {Dustin Podell and
+              Zion English and
+              Kyle Lacey and
+              Andreas Blattmann and
+              Tim Dockhorn and
+              Jonas Müller and
+              Joe Penna and
+              Robin Rombach},
+    title  = {SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis},
+    url    = {https://arxiv.org/pdf/2307.01952.pdf}
+}
